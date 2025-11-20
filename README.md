@@ -259,7 +259,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-MIT License © 2024
+This software is released into the public domain under the Unlicense. See `LICENSE` for details.
 
 ## 💬 Support
 
